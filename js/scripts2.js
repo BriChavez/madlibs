@@ -4,7 +4,6 @@ $(document).ready(function () {
     const exclamationInput = $("input#exclamation").val().toUpperCase();
     $(".exclamation").text(exclamationInput);
     $("#story").show();
-
     event.preventDefault();
   });
 })
