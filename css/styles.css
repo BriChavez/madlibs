@@ -2,5 +2,8 @@
   display: none;
 }
 body{
-  background-color: red;
+  background-color: rgba(128, 0, 128, 0.459);
+}
+form {
+  color: blue;
 }
