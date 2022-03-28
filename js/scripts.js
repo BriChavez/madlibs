@@ -19,6 +19,7 @@ $(document).ready(function() {
       $(inserts[counter]).text(input);
       counter += 1;
     });
+    
 
     // $(".person1").text(person1Input);
     // $(".person2").text(person2Input);
